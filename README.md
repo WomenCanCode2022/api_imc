@@ -16,3 +16,16 @@
   - Agora podemos copiar o código do arquivo app.js aqui do repositório e cola-lo dentro do arquivo que foi criado no VSCode
   - Para executar o projeto vamos voltar ao terminal e digitar o comando: **node app.js** 
     - **obs:** Se você nomeou seu arquivo com um nome diferente de "app.js", substitua "app.js" pelo nome que utilizou no seu arquivo.
+    
+## Um pouco do que conversamos na aula:
+    
+   ![ExAPIGoogle](https://user-images.githubusercontent.com/112905215/189357833-a21ca9e3-9ef0-48c9-b6c5-299551ea9765.png)
+   
+   ![ExAPIJD](https://user-images.githubusercontent.com/112905215/189357869-7385def4-b7ab-484a-bfbb-3aa5ab8a0190.png)
+
+## Links Uteis: 
+  - API: https://www.techtudo.com.br/listas/2020/06/o-que-e-api-e-para-que-serve-cinco-perguntas-e-respostas.ghtml
+         https://aws.amazon.com/pt/what-is/api/
+         
+  - HTTP: https://www.alura.com.br/artigos/desmistificando-o-protocolo-http-parte-1
+  - Codigos de resposta HTTP: https://http.dog/ ou https://http.cat/
